@@ -8,7 +8,7 @@
           "description": "Pilt või video, mida kuvatakse küsimuse juures (mittekohustuslik element)."
         },
         {
-          "label": "Disable image zooming."
+          "label": "Disable image zooming"
         }
       ]
     },

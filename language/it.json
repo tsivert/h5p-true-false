@@ -8,7 +8,7 @@
           "description": "Media facoltativo da mostrare sopra la domanda."
         },
         {
-          "label": "Disabilita lo zoom dell'immagine."
+          "label": "Disabilita lo zoom dell'immagine"
         }
       ]
     },

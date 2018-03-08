@@ -8,7 +8,7 @@
           "description": "Optional media to display above the question."
         },
         {
-          "label": "Disable image zooming."
+          "label": "Disable image zooming"
         }
       ]
     },

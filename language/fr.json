@@ -8,7 +8,7 @@
           "description": "Média optionnel à afficher au-dessus de la question."
         },
         {
-          "label": "Désactiver la possibilité d'agrandir l'image."
+          "label": "Désactiver la possibilité d'agrandir l'image"
         }
       ]
     },

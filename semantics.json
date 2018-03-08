@@ -20,7 +20,7 @@
       {
         "name": "disableImageZooming",
         "type": "boolean",
-        "label": "Disable image zooming.",
+        "label": "Disable image zooming",
         "importance": "low",
         "default": false,
         "optional": true,
